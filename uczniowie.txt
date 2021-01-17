@@ -1,0 +1,31 @@
+Dodano nowego ucznia!
+Id ucznia: 413a
+Nazwisko: Kupis
+Imiê: Agata
+Klasa: IVa
+Data urodzenia: 2008-05-21
+Wygenerowane has³o: 4RK2U8zH
+
+Dodano nowego ucznia!
+Id ucznia: 210
+Nazwisko: Adamiec
+Imiê: Kamil
+Klasa: II
+Data urodzenia: 2010-12-31
+Wygenerowane has³o: nXkampoQ
+
+Dodano nowego ucznia!
+Id ucznia: 621
+Nazwisko: Opalska
+Imiê: Adrianna
+Klasa: VI
+Data urodzenia: 2008-03-03
+Wygenerowane has³o: HieSEIRZ
+
+Dodano nowego ucznia!
+Id ucznia: 513
+Nazwisko: Rogala
+Imiê: Agata
+Klasa: VI
+Data urodzenia: 2009-09-06
+Wygenerowane has³o: rlqHxBku
